@@ -1,2 +1,3 @@
 # Portfolio.github.io
-https://github.com/rushikesh109/Portfolio.github.io.git
+ [live preview](https://github.com/rushikesh109/Portfolio.github.io.git/)
+
